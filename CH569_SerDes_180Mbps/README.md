@@ -1,4 +1,4 @@
-Example capture & descamble CH569 SerDes at 180Mbps
+### Example capture & descamble of CH569 SerDes at 180Mbps
 
 * Rigol MSO5000 Series bin capture file: `CH569_SerDes_180Mbps.bin`
 * Pre-configured glscopeclient session file: `CH569_SerDes_180Mbps.bin.scopesession`
