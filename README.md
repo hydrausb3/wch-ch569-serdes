@@ -9,6 +9,6 @@ Aim of this project:
     *  [CH569_SerDes_180Mbps](CH569_SerDes_180Mbps)
 * To reverse/rewrite all interesting blob/code to clean C code to have fully open source driver for WCH CH569 SerDes peripheral
   * Done in https://github.com/hydrausb3/hydrausb3_fw/tree/main/HydraUSB3_DualBoard_SerDes
-  * See peripheral open source code API / code
-    * https://github.com/hydrausb3/hydrausb3_fw/blob/main/SRC/Peripheral/src/CH56x_serdes.c
-    * https://github.com/hydrausb3/hydrausb3_fw/blob/main/SRC/Peripheral/inc/CH56x_serdes.h
+  * See drv open source code API / code
+    * https://github.com/hydrausb3/wch-ch56x-bsp/tree/main/drv/CH56x_serdes.c
+    * https://github.com/hydrausb3/wch-ch56x-bsp/tree/main/drv/CH56x_serdes.h
